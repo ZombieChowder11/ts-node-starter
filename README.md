@@ -1,2 +1,2 @@
 # ts-node-starter
-Simple typescript nodejs starter repo
+Simple typescript nodejs & express starter repo.
